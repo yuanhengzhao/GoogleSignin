@@ -53,6 +53,7 @@ public class GetUsernameTask extends AsyncTask<Void, Void, String> {
         String token = fetchToken();
                 if (token != null) {
                 return token;
+                    //This is a comment for testing github.
                 // **Insert the good stuff here.**
                 // Use the token to access the user's Google data.
                 }
