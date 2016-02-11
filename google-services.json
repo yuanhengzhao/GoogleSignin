@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "totemic-program-121218",
+    "project_number": "745833729089",
+    "name": ""
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745833729089:android:7f93e58cb227e254",
+        "client_id": "android:com.henry.googlesignin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.henry.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745833729089-79i7mvk7m4vffpdu16kf95qj1j5qllcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.henry.googlesignin",
+            "certificate_hash": "5B25034803C91ACC3B1C19BF95E5999AD7D80B30"
+          }
+        },
+        {
+          "client_id": "745833729089-c58grfrg4gatgs8nucv3mamomdkjchkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

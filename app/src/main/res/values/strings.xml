@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">googlesignin</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="google_app_id">745833729089</string>
+    <string name="title_activity_token">TokenActivity</string>
+</resources>
+
